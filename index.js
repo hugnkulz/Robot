@@ -14,3 +14,4 @@ login({email: "thue.baibo.9", password: "1621997"}, function callback (err, api)
         }
     });
 });
+console.log('Server running at http://127.0.0.1:2000/');
